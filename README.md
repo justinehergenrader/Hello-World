@@ -18,7 +18,7 @@ What is contained within the data files?
 Datafile considerations...
 
 ## How to Run Program  
-Explain here how you would run the program and what files need to be available.  
+Explain here how I would run the program and what files need to be available.  
 
 ## Additional Information  
 Add Links or talk about results or how the information is being used. This is just to share more. 
