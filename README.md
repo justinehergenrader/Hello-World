@@ -2,7 +2,7 @@
 First Repository    
 
 ## Project Title  
-*Hello World Sample - My First Repository*  
+*Hello World - My First Repository*  
 
 ## Description  
 I practiced using GitHub by creating this first repository. This section should usually be a couple of paragraphs when actually using this.  
