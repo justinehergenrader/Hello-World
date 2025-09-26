@@ -5,7 +5,7 @@ First Repository
 *Hello World Sample - My First Repository*  
 
 ## Description  
-I practiced using GitHub by creating this first repository. It should usually be a couple of paragraphs for actual use.  
+I practiced using GitHub by creating this first repository. This section should usually be a couple of paragraphs when actually using this.  
 
 ## Tools Used  
 All programming languages and tools used in the project. Could include Python, SQL, Excel, Power BI, Tableau, websites, and more.  
