@@ -5,13 +5,13 @@ First Repository
 *Hello World - My First Repository*  
 
 ## Description  
-I practiced using GitHub by creating this first repository. This section should usually be a couple of paragraphs when actually using this.  
+I practiced using GitHub by creating this first repository. Usually, this section would be a couple of paragraphs when actually using this.  
 
 ## Tools Used  
-All programming languages and tools used in the project. Could include Python, SQL, Excel, Power BI, Tableau, websites, and more.  
+All programming languages and tools used in the project. Examples: Python, SQL, Excel, Power BI, Tableau, websites, and more.  
 
 ## Files Used  
-If any data files got used  
+If any data files got used...
 List filenames if so...  
 Where I got them...  
 What is contained within the data files?  
@@ -21,7 +21,7 @@ Datafile considerations...
 Explain here how I would run the program and what files need to be available.  
 
 ## Additional Information  
-Add Links or talk about results or how the information is being used. This is just to share more. 
+Add Links or talk about results or how the information is being used. Just to share more. 
 
 **BOLD**  
 *Italics*  
